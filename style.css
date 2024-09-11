@@ -1,4 +1,42 @@
+/* Style for the odin-recipe homepage */
 
+.headers{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: grey;
+    color: black;
+}
+
+ul{
+    background-color: lightblue;
+    width: 1000px;
+    height:300px;
+    margin: 10px auto;
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+li{
+    border: solid 5px black;
+    height: 300px;
+    width: 200px;
+    padding-top: 145px  ;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 100px;
+
+}
+
+
+
+
+
+
+
+/* Style for water-melon recipe */
 h1 {
     font-size: 50px;
     background-color: black;
